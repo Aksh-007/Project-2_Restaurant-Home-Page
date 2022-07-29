@@ -1,0 +1,139 @@
+@import url('https://fonts.magictype.in/css?font-family=Redrose&weight=300|500|700'); 
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+
+body{
+    border: 2px solid black;
+    font-family: 'Redrose', sans-serif;
+   
+}
+
+.navbar{
+    display: flex ;
+    width: 100%;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    margin-left: 200px;
+    margin-top: 30px;
+    padding: 20px 30px;
+    width: 80%;
+   
+}
+.container{
+    background-image: linear-gradient(
+        to right ,
+        rgba(219, 11, 94, 0.74),
+        rgba(111, 0, 237, 0.71)),
+        url('./assets/background.png');
+    background-size: cover;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: top;
+}
+
+.logo{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.list-item{
+    color: #ffc233;
+    font-size: 20px;
+    margin-right: 6rem;
+}
+
+.button-small{
+    margin-top: 40px;
+    border: 3px solid black;
+    /* width:-20px;
+    margin-left: 500px; */
+    margin-left: 200px;
+    margin-bottom: 20px;
+    padding: 10px 40px;
+    background-color: #FF505F;
+    font-family: 'Redrose', sans-serif;
+    color: white;
+    font-size: larger;
+    border: none;
+    
+}
+
+.button-large{
+    position: relative;
+    left: 40%;
+    bottom: 130px;
+    background-color: #FF505F;
+    font-family: 'Redrose', sans-serif;
+    padding: 10px 40px;
+    color: white;
+    font-size: larger;
+    border: none;
+}
+
+.bottom{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 0%;
+}
+.hero{
+    display: flexbox;
+    height: 100%;
+
+}
+
+.hero-heading{
+   
+    height: 500px;
+    text-align: center;
+    color: #FFC233;
+    width: 90%;
+    font-size: 50px;
+    word-spacing: 10px; 
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+
+.bottom{
+    position: absolute;
+    height: 100px;
+    top: 70vh;
+    left: 85%;
+   
+}
+
+.hero-heading p{
+    text-align: center;
+    /* padding: 20px 20px; */
+    font-family: 'Dela Gothic One';
+    font-size: 80px;
+    left: 25%;
+    color: #FFC233;
+    letter-spacing: 5px;
+
+}
+
+.list-item:hover{
+    color: black;
+    cursor: pointer;
+}
+
+.button-small:hover{
+    color: black;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.button-large:hover{
+    color: black;
+    cursor: pointer;
+    border-radius: 20px;
+}
