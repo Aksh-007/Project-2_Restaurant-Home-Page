@@ -2,6 +2,7 @@
 
 ## Hi there, I am `Akshay Barapatre` 
 Aspiring FullStack Javascript Developer   
+---
 
 ![HTML,CSS](https://img.shields.io/badge/HTML-CSS-green)
 
