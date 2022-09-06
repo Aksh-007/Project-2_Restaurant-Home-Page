@@ -1,4 +1,4 @@
-# Project 14 - Creativity Home Page
+# Project 2 - Restaurant Home Page
 
 ## Hi there, I am `Akshay Barapatre`  Aspiring FullStack Javascript Developer   
 
@@ -24,7 +24,7 @@
 ---
 
  
-## Project 14 [Live Link](https://dance-landing-page-project-14.netlify.app/)
+## Project 2 [Live Link](https://restaurant-home-landing-page.netlify.app/)
 
 -   Skills Gained in this project
     -   Learned various flexbox properties used for navbar.
