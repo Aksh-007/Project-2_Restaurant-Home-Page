@@ -1,8 +1,7 @@
 # Project 14 - Creativity Home Page
 
-## Hi there, I am `Akshay Barapatre` 
-Aspiring FullStack Javascript Developer   
----
+## Hi there, I am `Akshay Barapatre`  Aspiring FullStack Javascript Developer   
+
 
 ![HTML,CSS](https://img.shields.io/badge/HTML-CSS-green)
 
